@@ -1,6 +1,7 @@
 body {
   background-image: url("https://imgur.com/q5E4tAM.png");
   background-size: cover;
+  background-repeat: no-repeat;
      }
 p {
   color: #392A11;
