@@ -1,1 +1,1 @@
-from PIL import image
+image = Image.open('RGB.png')
